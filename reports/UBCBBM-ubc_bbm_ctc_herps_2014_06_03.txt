@@ -1,0 +1,76 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-07 ; Times: 4
+	Date: 2014-05-11 ; Times: 4
+	Date: 2014-05-13 ; Times: 2
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:h000718 institutioncode:ubcbbm" ; Times: 4
+	Query: "smooth green snake" ; Times: 1
+	Query: "catalognumber:h000706 institutioncode:ubcbbm" ; Times: 1
+	Query: "Charina" ; Times: 3
+	Query: "Lithobates catesbeianus mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 4
+	Query: "anole" ; Times: 2
+	Query: "CA lizard" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1679 download events in this period)
+Total number of records downloaded: 41 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 33
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "Micrurus fulvius stateprovince:"Florida"" ; Times: 1
+	Query: "Squamata country:"Australia"" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: ""Arizona elegans"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 38
+Total number of records retrieved from searches: 260
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 539
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 38
+Total number of records retrieved from searches: 260
+Number of download events that retrieved data from the resource: 91
+Total number of records downloaded: 3189
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
