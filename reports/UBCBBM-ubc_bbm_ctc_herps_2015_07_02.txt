@@ -1,0 +1,109 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern foxsnake" ; Times: 1
+	Query: "leopard frog" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "rana draytonii county:"alameda" stateprovince:"california"" ; Times: 1
+	Query: ""pine snake"" ; Times: 2
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "tropidurus itambere" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "stateprovince:"texas" specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "garter snake" ; Times: 1
+	Query: "caecilian" ; Times: 2
+	Query: "gila monster" ; Times: 1
+	Query: "incillius" ; Times: 1
+	Query: "Northern leopard frog" ; Times: 2
+	Query: "specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "incillius valliceps" ; Times: 2
+	Query: "Gerrhonotus infernalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1524 download events in this period)
+Total number of records downloaded: 30 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "rana draytonii county:"alameda" stateprovince:"california"" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "california red-legged frog" ; Times: 2
+	Query: "enhydrina" ; Times: 1
+	Query: "country:"Mexico" genus:Gerrhonotus" ; Times: 1
+	Query: "rana aurora draytonii" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 256
+Total number of records retrieved from searches: 2460
+Number of download events that retrieved data from the resource: 133
+Total number of records downloaded: 3872
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 282
+Total number of records retrieved from searches: 3692
+Number of download events that retrieved data from the resource: 296
+Total number of records downloaded: 8910
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
