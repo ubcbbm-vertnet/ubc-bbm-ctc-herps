@@ -1,0 +1,154 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 133
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 30
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "genus:Leptophis" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "short horned lizard" ; Times: 1
+	Query: "type:specimen (skeleton) institutioncode:UBCBBM" ; Times: 3
+	Query: "fern institutioncode:UBCBBM" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Pelamis platurus mexico" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 2
+	Query: "contortrix stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "Pituophis catenifer deserticola" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "Elaphe [Pantherophis] obsoleta" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Pantherophis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.649505705))&lt;15000" ; Times: 1
+	Query: "Wood Frog" ; Times: 1
+	Query: "boa" ; Times: 1
+	Query: "country:&#34;Mexico&#34; specificepithet:kingii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1045 download events in this period)
+Total number of records downloaded: 2455
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "UBCBBM" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "country:&#34;fiji&#34; class:reptilia" ; Times: 1
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "country:&#34;Mexico&#34; specificepithet:kingii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "bombifrons AND Canada" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+
+
+End of report.
