@@ -1,0 +1,131 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 541
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-12 ; Times: 10
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;University of British Columbia&#34; class:Amphibia country:&#34;Canada&#34;" ; Times: 3
+	Query: "UBCBBM" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 1
+	Query: "North Island British Columbia 1931" ; Times: 1
+	Query: "(Lithobates pipiens) Canada mappable:1" ; Times: 1
+	Query: "snake species data" ; Times: 2
+	Query: "lesser siren" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "&#34;University of British Columbia&#34; class:Amphibia country:&#34;Canada&#34; (nanaimo)" ; Times: 1
+	Query: "legless lizard" ; Times: 2
+	Query: "CTC 248" ; Times: 1
+	Query: "clouded salamander" ; Times: 1
+	Query: "(Lithobates pipiens) Canada" ; Times: 1
+	Query: "gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "leopard" ; Times: 1
+	Query: "cultus class:Amphibia country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "fluid preservation" ; Times: 1
+	Query: "University class:Amphibia country:&#34;Canada&#34; (nanaimo)" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "JB Foster 1960" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "(lithobates pipiens) canada mappable:1" ; Times: 1
+	Query: "beaver class:amphibia country:&#34;canada&#34;" ; Times: 1
+	Query: "university of british columbia class:Amphibia country:&#34;Canada&#34; (nanaimo)" ; Times: 1
+	Query: "Norops nebulosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 823 download events in this period)
+Total number of records downloaded: 2031
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "JB Foster" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Cnemidophorus tesselatus" ; Times: 2
+	Query: "Cophosaurus texanus" ; Times: 1
+
+
+End of report.
