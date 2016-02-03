@@ -1,0 +1,101 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-23 ; Times: 5
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Coluber British Columbia" ; Times: 2
+	Query: "mink frog" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "monster" ; Times: 10
+	Query: "picta institutioncode:UBCBBM" ; Times: 2
+	Query: "(Chrysemys picta) institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 6
+	Query: "american bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "masticophis schotti" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Chrysemys picta institutioncode:UBCBBM" ; Times: 2
+	Query: "jefferson salamander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 889 download events in this period)
+Total number of records downloaded: 592
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 9
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "cane toad" ; Times: 3
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
