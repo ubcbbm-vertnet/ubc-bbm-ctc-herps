@@ -1,0 +1,82 @@
+Report for Institution Code UBCBBM, Resource CTC
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Russia ; Times: 8
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pantherophis" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "type:specimen specificepithet:emoryi genus:pantherophis" ; Times: 1
+	Query: "jefferson salamander" ; Times: 2
+	Query: ""naja naja"" ; Times: 2
+	Query: "drymarchon texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 507 download events in this period)
+Total number of records downloaded: 496 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 353
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: ""naja naja"" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 496
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 18
+Total number of records retrieved from searches: 23
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 496
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
