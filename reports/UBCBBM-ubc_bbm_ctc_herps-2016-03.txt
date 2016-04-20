@@ -1,0 +1,58 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 652
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 8
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 6
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gila monster" ; Times: 1
+	Query: "Ambystoma gracile institutioncode:UBCBBM" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Western fence lizard" ; Times: 1
+	Query: "&#34;I.McT. Cowan&#34;" ; Times: 5
+	Query: "genus:Ambystoma institutioncode:UBCBBM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 230 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
