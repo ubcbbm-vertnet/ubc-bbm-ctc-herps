@@ -1,0 +1,119 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 47
+	Country: Russia ; Times: 15
+	Country: Canada ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 6
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 11
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 6
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 12
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 14
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 11
+	Date: 2016-04-29 ; Times: 7
+	Date: 2016-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "mink frog" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.727516))&lt;15000" ; Times: 4
+	Query: "drymarchon" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "red salamander" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.557516))&lt;15000" ; Times: 6
+	Query: "196 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-106.727516))&lt;15000" ; Times: 4
+	Query: "genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+	Query: "genus:sistrurus order:squamata stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "queen snake" ; Times: 1
+	Query: "monster" ; Times: 19
+	Query: "&#34;I.McT. Cowan&#34; &#34;British Columbia&#34; &#34;cariboo&#34;" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 8
+	Query: "distance(location,geopoint(21.779036,-106.557516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "painted Turtle" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.557516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(20.759036,-105.197516))&lt;15000" ; Times: 6
+	Query: "wood frog" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1312 download events in this period)
+Total number of records downloaded: 357
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+
+
+End of report.
