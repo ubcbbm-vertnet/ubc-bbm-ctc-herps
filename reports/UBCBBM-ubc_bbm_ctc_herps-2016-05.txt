@@ -1,0 +1,98 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 134
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+	Date: 2016-05-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Rubber Boa" ; Times: 3
+	Query: "leopard frog" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "heloderma" ; Times: 2
+	Query: "(Amphibia or Reptilia)" ; Times: 1
+	Query: "Pygmy horned lizard" ; Times: 3
+	Query: "rena dulcis" ; Times: 2
+	Query: "(smooth green snake)" ; Times: 1
+	Query: "coastal giant salamander" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Cottonmouth" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Arboreal salamander" ; Times: 1
+	Query: "Texas alligator lizard" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Coluber flagellum flagellum" ; Times: 2
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "communis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 327 download events in this period)
+Total number of records downloaded: 173
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 3
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Phrynosoma platyrhinos CA" ; Times: 2
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Coluber flagellum flagellum" ; Times: 2
+	Query: "Aneides vagrans" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
