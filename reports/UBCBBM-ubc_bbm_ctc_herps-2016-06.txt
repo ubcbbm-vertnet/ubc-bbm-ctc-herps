@@ -1,0 +1,125 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 356
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Canada ; Times: 11
+	Country: Argentina ; Times: 6
+	Country: Russia ; Times: 7
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 13
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-03 ; Times: 12
+	Date: 2016-06-11 ; Times: 5
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-23 ; Times: 12
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pantherophis" ; Times: 1
+	Query: "specificepithet:blandingi family:Emydidae" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "lithobates septentrionalis institutioncode:UBCBBM" ; Times: 1
+	Query: "Micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "lithobates institutioncode:UBCBBM" ; Times: 2
+	Query: "dicamptodon tenebrosus distance(location,geopoint(47.29910163887995,-123.310546875))&lt;100000" ; Times: 1
+	Query: "Milksnake" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "monster" ; Times: 7
+	Query: "ambystoma sinclair" ; Times: 1
+	Query: "Ambystoma macrodactylum krausei" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "ornate tree lizard" ; Times: 4
+	Query: "leptophis" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Kinosternon 3" ; Times: 1
+	Query: "Crotaphytus reticulatus 1" ; Times: 2
+	Query: "Beaty specimens" ; Times: 5
+	Query: "leopard" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "Ambystoma macrodactylum distance(location,geopoint(46.31626853115446,-121.66015517820296))&lt;100000" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 2
+	Query: "agkistrodon contortrix laticinctus" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 6
+	Query: "phyllorynchus decurtatus" ; Times: 1
+	Query: "Ambystoma macrodactylum distance(location,geopoint(55.02697288562893,-130.30407775099997))&lt;100000" ; Times: 1
+	Query: "Massasauga" ; Times: 2
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1052 download events in this period)
+Total number of records downloaded: 159
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "agkistrodon contortrix laticinctus" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Spea bombifrons country:&#34;Canada&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+
+
+End of report.
