@@ -1,0 +1,112 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Smooth Green Snake mappable:1" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates catesbeianus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Norops nebulosus 1" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "american bullfrog" ; Times: 2
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "slender salamander" ; Times: 2
+	Query: "Varanus institutioncode:UBCBBM" ; Times: 3
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Yellow mud turtle" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "coachwhip" ; Times: 1
+	Query: "Smooth Green Snake" ; Times: 1
+	Query: "Hyla versicolor country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Garter Snake year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "garter snake" ; Times: 1
+	Query: "&#34;salmon arm&#34; institutioncode:UBCBBM" ; Times: 1
+	Query: "smooth green snake" ; Times: 2
+	Query: "leptophis diplotropis" ; Times: 3
+	Query: "blandings turtle" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 924 download events in this period)
+Total number of records downloaded: 618
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-22 ; Times: 13
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anaxyrus americanus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+
+
+End of report.
