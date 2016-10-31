@@ -1,0 +1,84 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 5
+	Date: 2016-09-10 ; Times: 9
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "yellow mud turtle" ; Times: 4
+	Query: "Lithobates catesbeianus 1" ; Times: 3
+	Query: "pantherophis" ; Times: 2
+	Query: "Pantherophis vulpinus specificepithet:vulpinus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Pantherophis emoryi specificepithet:emoryi genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "lithobates clamitans" ; Times: 2
+	Query: "Norops nebulosus 1" ; Times: 1
+	Query: "Sceloporus olivaceus" ; Times: 2
+	Query: "american bullfrog" ; Times: 1
+	Query: "E31" ; Times: 1
+	Query: "NA 1" ; Times: 9
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "coluber lateralis" ; Times: 4
+	Query: "Coluber lateralis" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "roadrunner" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "yellow mud turtle" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "coluber lateralis" ; Times: 1
+
+
+End of report.
