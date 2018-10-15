@@ -1,0 +1,140 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 3
+	Country: Canada ; Times: 23
+	Country: China ; Times: 2
+	Country: Portugal ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 10
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 6
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-27 ; Times: 18
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:charina (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:lithobates lifestage:adult hassex:1 hasmass:1" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 2
+	Query: "(Guiguet) year &gt;= 1947 year &lt;= 1947 month &gt;= 6 month &lt;= 7 institutioncode:UBCBBM" ; Times: 1
+	Query: "Rana aurora northern red legged frog" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "lithobates catesbeianus hastissue:1" ; Times: 1
+	Query: "california kingsnake" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "american crocodile" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "nightsnake" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 2
+	Query: "Tailed frog" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "Smooth green snake" ; Times: 2
+	Query: "genus:heloderma" ; Times: 2
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 1
+	Query: "indigo snake" ; Times: 2
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; OR &#34;Lithobates catesbeianus&#34; vntype:specimen hastissue:1" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; OR &#34;Lithobates catesbeianus&#34; hastissue:1" ; Times: 17
+	Query: "Little brown skink" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "crotaphytus reticulatus texas" ; Times: 1
+	Query: "western banded gecko" ; Times: 2
+	Query: "Dipsas indica" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "Lithobates catesbeianus mappable:1" ; Times: 2
+	Query: "Sibynomorphus mikanii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1892 download events in this period)
+Total number of records downloaded: 534
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 2
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "aneides vagrans" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "genus:Rhacophorus hastissue:1" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+
+
+End of report.
