@@ -1,0 +1,107 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 529
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 19
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-21 ; Times: 6
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-17 ; Times: 4
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "(draco lizard) institutioncode:UBCBBM" ; Times: 1
+	Query: "UBCBBM" ; Times: 1
+	Query: "Pseudacris maculata hastissue:1" ; Times: 4
+	Query: "vntype:specimen institutioncode:UBCBBM hastissue:1" ; Times: 3
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia continent:North America hastissue:1" ; Times: 2
+	Query: "blandings" ; Times: 1
+	Query: "family:Alligatoridae institutioncode:UBCBBM" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "distance(location,geopoint(28.201407172,-96.9181141195))&lt;9172" ; Times: 3
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Mantella milotympanum" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "order:Crocodylia institutioncode:UBCBBM" ; Times: 1
+	Query: "Gila Monster" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "(Rhacophorus) institutioncode:UBCBBM" ; Times: 4
+	Query: "Cowan Tetrapod" ; Times: 1
+	Query: "family:Gekkonidae institutioncode:UBCBBM" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "mappable:1 hastissue:1 distance(location,geopoint(50.958426723359935,-120.849609375))&lt;100000" ; Times: 1
+	Query: "White Tiger mappable:1" ; Times: 1
+	Query: "&#34;Boreal chorus frog&#34; hastissue:1" ; Times: 2
+	Query: "copperhead data" ; Times: 1
+	Query: "distance(location,geopoint(28.2843611965021,-96.909045492904))&lt;7630" ; Times: 3
+	Query: "Copperhead Data" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1398 download events in this period)
+Total number of records downloaded: 406
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "sceloporus occidentalis vntype:specimen basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Aneides vagrans" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+
+
+End of report.
