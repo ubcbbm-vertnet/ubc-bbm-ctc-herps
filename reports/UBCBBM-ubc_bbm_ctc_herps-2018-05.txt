@@ -1,0 +1,131 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 376
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 75
+	Country: Namibia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 14
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 33
+	Date: 2018-05-24 ; Times: 14
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pantherophis" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UBCBBM" ; Times: 3
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:valliceps genus:Incilius institutioncode:UBCBBM" ; Times: 3
+	Query: "year &gt;= 2009 year &lt;= 2010 institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "Agkistrodon hastissue:1" ; Times: 17
+	Query: "Ambystoma macrodactylum krausei" ; Times: 1
+	Query: "crotalus hastissue:1" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UBCBBM" ; Times: 4
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "institutioncode:ubcbbm preparations:skeleton" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UBCBBM" ; Times: 3
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "year &gt;= 2015 year &lt;= 2018 institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:draytonii genus:Rana institutioncode:UBCBBM" ; Times: 3
+	Query: "Boreal Chorus frog" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:UBCBBM" ; Times: 4
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UBCBBM" ; Times: 3
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "specificepithet:sylvaticus stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UBCBBM" ; Times: 3
+	Query: "specificepithet:marina genus:Rhinella institutioncode:UBCBBM" ; Times: 3
+	Query: "Copperhead Data" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1178 download events in this period)
+Total number of records downloaded: 526
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 13
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:urosaurus sex:male OR female" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:crotalus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
