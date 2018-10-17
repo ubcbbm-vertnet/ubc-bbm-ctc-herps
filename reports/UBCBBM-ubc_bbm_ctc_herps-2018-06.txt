@@ -1,0 +1,176 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 2525
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 76
+	Country: Germany ; Times: 1
+	Country: China ; Times: 2
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-07 ; Times: 26
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-08 ; Times: 10
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 10
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mink frog" ; Times: 1
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "Northwestern Salamander" ; Times: 1
+	Query: "southern alligator lizard" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 2
+	Query: "Rena dulcis" ; Times: 1
+	Query: "frog pacific northwest" ; Times: 1
+	Query: "rough skinned newt" ; Times: 6
+	Query: "poison dart frog" ; Times: 1
+	Query: "class:Reptilia county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cascade frog" ; Times: 1
+	Query: "frog oregon" ; Times: 1
+	Query: "specificepithet:infernalis genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "gila monster" ; Times: 2
+	Query: "frog northwest" ; Times: 1
+	Query: "Typhlonectes compressicauda" ; Times: 1
+	Query: "dicamptodon tenebrosus columbia" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "Rough Skinned Newt" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis hastissue:1" ; Times: 1
+	Query: "Calotes cristatellus" ; Times: 1
+	Query: "Tropiduridae hastissue=1 year&gt;1995" ; Times: 3
+	Query: "rough-skinned newt" ; Times: 4
+	Query: "monster" ; Times: 3
+	Query: "western fence lizard" ; Times: 2
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "Northern red legged frog" ; Times: 1
+	Query: "Coastal Giant Salamander" ; Times: 1
+	Query: "pacific salamander" ; Times: 3
+	Query: "Incillius" ; Times: 1
+	Query: "western painted turtle" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "rubber boa" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 6
+	Query: "giant salamander" ; Times: 2
+	Query: "pacific tree frog" ; Times: 6
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "(tusk) institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:texas" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 2
+	Query: "northern red legged frog" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "northwestern salamander" ; Times: 1
+	Query: "Tropidurus hastissue=1 year&gt;1995" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1169 download events in this period)
+Total number of records downloaded: 5744
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 95
+	Country: Puerto Rico ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 29
+	Date: 2018-06-06 ; Times: 19
+	Date: 2018-06-05 ; Times: 25
+	Date: 2018-06-04 ; Times: 7
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-08 ; Times: 14
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 3
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "painted turtle" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "mink frog" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "rough skinned newt" ; Times: 6
+	Query: "poison dart frog" ; Times: 2
+	Query: "taricha granulosa" ; Times: 4
+	Query: "Siren lacertina" ; Times: 1
+	Query: "pacific tree frog" ; Times: 4
+	Query: "cascade frog" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "spotted salamander" ; Times: 5
+	Query: "Northwestern Salamander" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "axolotl" ; Times: 3
+	Query: "frog" ; Times: 1
+	Query: "pickerel frog" ; Times: 1
+	Query: "Rough Skinned Newt" ; Times: 2
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "rough-skinned newt" ; Times: 4
+	Query: "class:Reptilia county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "western fence lizard" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Northern red legged frog" ; Times: 1
+	Query: "Coastal Giant Salamander" ; Times: 1
+	Query: "pacific salamander" ; Times: 2
+	Query: "Incillius" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "western painted turtle" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "newt" ; Times: 3
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "American Bullfrog" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "giant salamander" ; Times: 2
+	Query: "valliceps" ; Times: 1
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "northwestern salamander" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "northern red legged frog" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "california newt" ; Times: 2
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "wood frog continent:North America" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
