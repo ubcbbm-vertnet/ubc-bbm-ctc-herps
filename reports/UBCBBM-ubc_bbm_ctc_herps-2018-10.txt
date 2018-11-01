@@ -1,0 +1,110 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 179
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+	Country: Sweden ; Times: 5
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 8
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Texas&#34; catalognumber:H001201 institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rubber Boa" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5 iguana" ; Times: 3
+	Query: "Nightsnake" ; Times: 1
+	Query: "Tropidurus itambere" ; Times: 1
+	Query: "Achalinus rufescens" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "specificepithet:Carolina genus:Terrapene hastissue:1" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5" ; Times: 1
+	Query: "monitor lizard" ; Times: 2
+	Query: "Heterodon platyrhinos" ; Times: 1
+	Query: "Cordylus cataphractus" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34; distance(location,geopoint(30.96878373061891,-97.06096206655627))&lt;127263" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1300 download events in this period)
+Total number of records downloaded: 239
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "genus:naja hastissue:1" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "nerodia" ; Times: 1
+
+
+End of report.
