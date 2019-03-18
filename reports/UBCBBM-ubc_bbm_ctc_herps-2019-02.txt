@@ -1,0 +1,111 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 638
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 38
+	Country: Sweden ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 7
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-15 ; Times: 7
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 4
+	Date: 2019-02-19 ; Times: 5
+	Date: 2019-02-20 ; Times: 11
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Northern red-legged frog" ; Times: 1
+	Query: "clouded salamander" ; Times: 1
+	Query: "genus:Megophrys specificepithet:nasuta" ; Times: 1
+	Query: "vntype:specimen institutioncode:UBCBBM hastissue:1" ; Times: 2
+	Query: "Clouded Salamander" ; Times: 1
+	Query: "diadophis nayarit" ; Times: 1
+	Query: "red backed Salamander" ; Times: 1
+	Query: "syringa" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi)" ; Times: 1
+	Query: "northern red-legged frog" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Salvadora hastissue:1" ; Times: 1
+	Query: "slender salamander" ; Times: 4
+	Query: "Black salamander" ; Times: 1
+	Query: "long-toed salamander" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 2
+	Query: "indigo snake" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; institutioncode:UBCBBM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 4
+	Query: "alligator lizard" ; Times: 4
+	Query: "rubber boa" ; Times: 1
+	Query: "diadophis punctatus nayarit" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "pseudobufo subasper" ; Times: 2
+	Query: "Drymarchon" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1227 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "long-toed salamander" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+
+
+End of report.
