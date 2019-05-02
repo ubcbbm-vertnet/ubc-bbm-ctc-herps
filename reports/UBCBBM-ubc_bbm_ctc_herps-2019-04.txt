@@ -1,0 +1,123 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 289
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Jamaica ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 3
+	Country: Argentina ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 5
+	Date: 2019-04-01 ; Times: 11
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+	Date: 2019-04-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber flagellum mappable:1" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "egg british columbia institutioncode:UBCBBM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ctenosaura pectinata mappable:1" ; Times: 1
+	Query: "family:Anguidae institutioncode:UBCBBM hastissue:1" ; Times: 1
+	Query: "specificepithet:catesbeianus hastissue:1" ; Times: 4
+	Query: "GMN" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon hastissue:1" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus lifestage:larva" ; Times: 2
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "queen lake" ; Times: 1
+	Query: "Alligator lizard" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis hastissue:1" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chlamydosaurus kingii mappable:1" ; Times: 1
+	Query: "Tropidurus itambere mappable:1" ; Times: 1
+	Query: "Chamaeleo dilepis mappable:1" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon hastissue:1" ; Times: 1
+	Query: "Toad huntingdon" ; Times: 1
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "Leptophis diplotropis mappable:1" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Colubridae country:&#34;India&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "Rana aurora mappable:1" ; Times: 1
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 348
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "family:Hylidae hastissue:1" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
