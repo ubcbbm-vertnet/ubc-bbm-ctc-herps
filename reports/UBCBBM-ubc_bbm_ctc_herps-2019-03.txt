@@ -1,0 +1,142 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 240
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 5
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-30 ; Times: 8
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-22 ; Times: 7
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-14 ; Times: 8
+	Date: 2019-03-15 ; Times: 10
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:boreas halophilus genus:anaxyrus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sceloporus Canada" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 2
+	Query: "Rena dulcis" ; Times: 1
+	Query: "eastern red backed salamander" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Kinosternon flavescens stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:mantella hastissue:1" ; Times: 2
+	Query: "legless lizard" ; Times: 1
+	Query: "beaver institutioncode:UBCBBM" ; Times: 1
+	Query: "Zebra-Tailed Lizard" ; Times: 1
+	Query: "sistrurus catenatus texas" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coluber anthonyi" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "Coluber lateralis" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "genus:Dendrobates hastissue:1" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus tergeminus texas" ; Times: 1
+	Query: "Achalinus rufescens" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Typhlonectes compressicauda compressicauda mappable:1" ; Times: 7
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "Long nosed snake" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "specificepithet:dulcis genus:rena stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "family:pygopodidae hastissue:1" ; Times: 3
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Coluber schotti" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "western banded gecko" ; Times: 4
+	Query: "genus:Pipa hastissue:1" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;alameda&#34; stateprovince:&#34;california&#34; country:&#34;united states&#34; continent:north america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Typhlonectes compressicauda mappable:1" ; Times: 7
+	Query: "Dipsas indica" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "family:hydrophiinae" ; Times: 1
+	Query: "Pygmy rattlesnake" ; Times: 2
+	Query: "family:Pygopodidae hastissue:1" ; Times: 1
+	Query: "Copperhead Data" ; Times: 3
+	Query: "Sibynomorphus mikanii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1281 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:granulosa genus:taricha county:&#34;curry&#34;" ; Times: 1
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "specificepithet:boreas genus:anaxyrus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sistrurus tergeminus texas" ; Times: 1
+	Query: "Zebra-Tailed Lizard" ; Times: 1
+	Query: "sistrurus catenatus texas" ; Times: 1
+	Query: "western banded gecko" ; Times: 3
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Copperhead Data" ; Times: 2
+	Query: "specificepithet:vagrans genus:aneides" ; Times: 1
+
+
+End of report.
