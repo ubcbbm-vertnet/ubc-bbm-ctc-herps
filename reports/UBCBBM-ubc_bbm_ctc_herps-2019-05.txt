@@ -1,0 +1,116 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 80
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Bangladesh ; Times: 2
+	Country: United States ; Times: 33
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Puerto Rico ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Columbia torrent salamander" ; Times: 2
+	Query: "&#34;Naja naja&#34;" ; Times: 2
+	Query: "Phrynosoma alameda county" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea hastissue:1" ; Times: 1
+	Query: "specificepithet:Catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "American crocodile" ; Times: 6
+	Query: "Giant Salamander" ; Times: 2
+	Query: "gulf coast toad" ; Times: 2
+	Query: "Caecilian" ; Times: 1
+	Query: "slender salamander" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "Caecilian order:Gymnophiona" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "Desert tortoise" ; Times: 2
+	Query: "grey tree frog" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "massasauga" ; Times: 2
+	Query: "gila monster Arizona" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "Ambystoma macrodactylum vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "Dipsas indica" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Mexico&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "genus:Micrurus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "copperhead data" ; Times: 1
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Switzerland ; Times: 2
+	Country: Bangladesh ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Rana draytonii vntype:specimen" ; Times: 1
+	Query: "sylvatica hastissue:1" ; Times: 1
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 4
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Rana aurora draytonii vntype:specimen" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rana sylvatica hastissue:1" ; Times: 1
+
+
+End of report.
