@@ -1,0 +1,138 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 628
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 24
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-10 ; Times: 4
+	Date: 2019-06-28 ; Times: 2
+	Date: 2019-06-24 ; Times: 10
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodile institutioncode:UBCBBM" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "Gila monster" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:dilepis" ; Times: 1
+	Query: "class:reptilia locality:wake island" ; Times: 1
+	Query: "sistrurus tergeminus catenatus" ; Times: 1
+	Query: "rough skinned newt" ; Times: 2
+	Query: "genus:Chlamydosaurus specificepithet:kingii" ; Times: 1
+	Query: "rough-skinned newt" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Agkistrodon specificepithet:piscivorus" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "genus:Acrochordus specificepithet:granulatus" ; Times: 1
+	Query: "Liolaemus tenuis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:blythii" ; Times: 1
+	Query: "wolf country:&#34;Canada&#34;" ; Times: 1
+	Query: "Rana aurora draytonii mappable:1" ; Times: 5
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "snake turkey" ; Times: 2
+	Query: "genus:Polychrus specificepithet:marmoratus" ; Times: 1
+	Query: "country:&#34;peru&#34; institutioncode:UBCBBM" ; Times: 3
+	Query: "Gila monster Arizona" ; Times: 1
+	Query: "genus:Norops" ; Times: 1
+	Query: "genus:Charina hastissue:1" ; Times: 1
+	Query: "genus:Pygopus specificepithet:lepidopodus" ; Times: 1
+	Query: "genus:Pipa specificepithet:pipa" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "Oregon spotted frog" ; Times: 1
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Charina year &gt;= 1990 hastissue:1" ; Times: 2
+	Query: "Liolaemus nitidus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "elaphe vulpina" ; Times: 1
+	Query: "genus:Dipsas specificepithet:indica" ; Times: 1
+	Query: "genus:Gerrhonotus specificepithet:infernalis" ; Times: 1
+	Query: "giant salamander" ; Times: 3
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "genus:Pseudobufo specificepithet:subasper" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 1
+	Query: "Rana draytonii mappable:1" ; Times: 3
+	Query: "Quayle AND island" ; Times: 1
+	Query: "Eastern box turtle" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 1
+	Query: "genus:Lithobates specificepithet:sylvaticus" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 3
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5" ; Times: 2
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 3
+	Query: "specificepithet:sylvaticus genus:Lithobates stateprovince:&#34;alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1182 download events in this period)
+Total number of records downloaded: 2483
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-06 ; Times: 8
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 10
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 10
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 1
+	Query: "Gila monster" ; Times: 1
+	Query: "(frog)" ; Times: 1
+	Query: "rough skinned newt" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "(american bullfrog)" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "BEAVER" ; Times: 1
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "rough-skinned newt" ; Times: 3
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "salamander" ; Times: 3
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Oregon spotted frog" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "newt" ; Times: 5
+	Query: "giant salamander" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+
+
+End of report.
