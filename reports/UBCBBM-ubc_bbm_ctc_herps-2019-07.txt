@@ -1,0 +1,139 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 934
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Canada ; Times: 8
+	Country: Unknown ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 11
+	Date: 2019-07-18 ; Times: 5
+	Date: 2019-07-27 ; Times: 2
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-14 ; Times: 4
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "yellow bellied racer" ; Times: 1
+	Query: "(Melanophryniscus) hastissue:1" ; Times: 1
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "Anaxyrus hemiophrys hastissue:1" ; Times: 1
+	Query: "(crocodylus porosus OR crocodylus acutus)" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates preparations:skeleton" ; Times: 2
+	Query: "genus:Norops" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 2
+	Query: "Sistrurus catenatus catenatus mappable:1" ; Times: 3
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 2
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "texas horned lizard" ; Times: 2
+	Query: "Melanophryniscus hastissue:1" ; Times: 1
+	Query: "Melanophryniscus stelzneri hastissue:1" ; Times: 1
+	Query: "long-toed salamander" ; Times: 1
+	Query: "(Incilius) hastissue:1" ; Times: 2
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "Liolaemus tenuis" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "(Pseudobufo) hastissue:1" ; Times: 1
+	Query: "Rhinella marina hastissue:1" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "Rana aurora" ; Times: 5
+	Query: "Sistrurus catenatus mappable:1" ; Times: 3
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "Smooth green snake" ; Times: 3
+	Query: "Pseudobufo subasper hastissue:1" ; Times: 1
+	Query: "Gila Monster" ; Times: 1
+	Query: "Incilius valliceps hastissue:1" ; Times: 1
+	Query: "reptilia and wake and island" ; Times: 1
+	Query: "yellow mud turtle" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "institutioncode:UBCBBM hastissue:1" ; Times: 7
+	Query: "Anaxyrus speciosus hastissue:1" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Typhlonectes compressicauda mappable:1" ; Times: 2
+	Query: "Rana aurora draytonii" ; Times: 2
+	Query: "Norops nebulosus" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 985 download events in this period)
+Total number of records downloaded: 141
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-30 ; Times: 9
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:propinqua genus:Holbrookia" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "genus:Micrurus hastissue:1" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Smooth green snake" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "reptilia and wake and island" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Norops nebulosus" ; Times: 1
+
+
+End of report.
