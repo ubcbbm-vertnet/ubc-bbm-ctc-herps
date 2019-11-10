@@ -1,0 +1,162 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 600
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Hungary ; Times: 1
+	Country: Brazil ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 15
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-06 ; Times: 38
+	Date: 2019-09-21 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "(Pantherophis OR Elaphe) (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 3
+	Query: "specificepithet:magister genus:Sceloporus hastissue:1" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Typhlonectes compressicauda compressicauda mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1959 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 2
+	Query: "Pantherophis hastissue:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "vntype:specimen (siren) hastissue:1" ; Times: 2
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Kinosternon hastissue:1" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (guttatus OR guttata OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Pseudobufo subasper" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 18
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2009 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Drymarchon corais corais mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Gopher Snake" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "(Pantherophis OR Elaphe) (gutattus OR gutatta OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2009 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Gila Monster" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Hypsiglena hastissue:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1959 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 2
+	Query: "Oxyrhopus guibei mappable:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 4
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Canada&#34;" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "Incilius valliceps specificepithet:valliceps genus:Incilius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Pantherophis (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "Typhlonectes compressicauda mappable:1" ; Times: 1
+	Query: "Coluber lineatus mappable:1" ; Times: 1
+	Query: "Rough skinned newt" ; Times: 1
+	Query: "Pantherophis (gutattus OR slowinski OR emoryi) hastissue:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1949 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UBCBBM" ; Times: 5
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia hastissue:1" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1073 download events in this period)
+Total number of records downloaded: 411
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-18 ; Times: 10
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus hastissue:1" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "Agkistrodon (contortrix OR laticinctus) hastissue:1" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "vntype:specimen (siren) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+
+
+End of report.
