@@ -1,0 +1,92 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 10
+	Country: France ; Times: 2
+	Country: India ; Times: 2
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 12
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-06 ; Times: 4
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-13 ; Times: 10
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-01 ; Times: 5
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 2
+	Query: "Massasauga" ; Times: 10
+	Query: "Siren texana" ; Times: 1
+	Query: "regal ring necked snake" ; Times: 1
+	Query: "platurus hastissue:1" ; Times: 8
+	Query: "specificepithet:subasper genus:Pseudobufo" ; Times: 2
+	Query: "genus:Pseudobufo hastissue:1" ; Times: 2
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "specificepithet:valliceps genus:Incilius" ; Times: 2
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "specificepithet:hemiophrys genus:Anaxyrus" ; Times: 2
+	Query: "regal ring" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "monster" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 596 download events in this period)
+Total number of records downloaded: 236
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+
+
+End of report.
