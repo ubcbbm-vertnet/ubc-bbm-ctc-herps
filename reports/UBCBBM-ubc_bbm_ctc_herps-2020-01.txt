@@ -1,0 +1,125 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 250
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 11
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-22 ; Times: 9
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-31 ; Times: 12
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-23 ; Times: 11
+	Date: 2020-01-30 ; Times: 39
+
+List of queries that retrieved data from the resource: 
+	Query: "pretiosa Rana" ; Times: 3
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "Rana draytonii 25" ; Times: 4
+	Query: "specificepithet:aurora genus:Rana" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 3
+	Query: "Rana draytonii 20" ; Times: 4
+	Query: "specificepithet:pretiosa genus:Rana" ; Times: 1
+	Query: "Rana draytonii 2013" ; Times: 6
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "specificepithet:luteiventris genus:Rana" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "specificepithet:pumilio genus:Dendrobates" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 3
+	Query: "class:Reptilia country:&#34;India&#34; hastissue:1" ; Times: 2
+	Query: "Rana draytonii 206" ; Times: 4
+	Query: "american crocodile" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 1
+	Query: "specificepithet:blythii genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:milotympanum genus:Mantella" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Oxyrhopus hastissue:1" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rana draytonii 12" ; Times: 4
+	Query: "Rana draytonii 1942" ; Times: 5
+	Query: "acrochordus granulatus" ; Times: 1
+	Query: "Rana draytonii 8" ; Times: 4
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Rana draytonii 201" ; Times: 4
+	Query: "Rana draytonii 7" ; Times: 4
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "smooth green snake" ; Times: 1
+	Query: "Rana draytonii 3" ; Times: 4
+	Query: "specificepithet:nasuta genus:Megophrys" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UBCBBM" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1584 download events in this period)
+Total number of records downloaded: 144
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "rainier" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+
+
+End of report.
