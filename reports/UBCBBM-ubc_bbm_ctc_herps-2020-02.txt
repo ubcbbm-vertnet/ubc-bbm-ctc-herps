@@ -1,0 +1,125 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 435
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 90
+	Country: Canada ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-11 ; Times: 13
+	Date: 2020-02-03 ; Times: 14
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-20 ; Times: 9
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-08 ; Times: 6
+	Date: 2020-02-02 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "northern leopard frog" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "Patch nosed snake" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 2
+	Query: "genus:Occidozyga specificepithet:lima" ; Times: 1
+	Query: "rough skinned newt" ; Times: 1
+	Query: "Rana draytonii 25" ; Times: 3
+	Query: "California kingsnake" ; Times: 2
+	Query: "Rana draytonii 20" ; Times: 3
+	Query: "Rana draytonii 2013" ; Times: 7
+	Query: "Rana draytonii 2015" ; Times: 7
+	Query: "genus:Anaxyrus (boreas halophilus)" ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 7
+	Query: "genus:Anaxyrus stateprovince:&#34;California&#34; (boreas halophilus)" ; Times: 3
+	Query: "class:Amphibia country:&#34;Bangladesh&#34; continent:Asia" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "Ascaphus truei year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "california kingsnake" ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Rana aurora draytonii 2013" ; Times: 1
+	Query: "Rana draytonii 206" ; Times: 3
+	Query: "Rana draytonii 201" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "Rana draytonii 1" ; Times: 1
+	Query: "desert tortoise" ; Times: 1
+	Query: "northern red-legged frog" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus olivaceus" ; Times: 1
+	Query: "Rana draytonii 12" ; Times: 3
+	Query: "Rana draytonii 1942" ; Times: 5
+	Query: "genus:siren stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "Rana aurora draytonii 2016" ; Times: 1
+	Query: "Rana draytonii 8" ; Times: 3
+	Query: "rubber boa" ; Times: 2
+	Query: "Rana aurora draytonii 2015" ; Times: 1
+	Query: "Rana draytonii 7" ; Times: 3
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Rana draytonii 3" ; Times: 3
+	Query: "oregon spotted frog" ; Times: 2
+	Query: "genus:ambystoma lifestage:larvae" ; Times: 1
+	Query: "thamnophis ordinoides hastissue:1" ; Times: 1
+	Query: "Poison dart frog" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UBCBBM" ; Times: 1
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "Patch-nosed snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1023 download events in this period)
+Total number of records downloaded: 262
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Belgium ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "thamnophis atratus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+
+
+End of report.
