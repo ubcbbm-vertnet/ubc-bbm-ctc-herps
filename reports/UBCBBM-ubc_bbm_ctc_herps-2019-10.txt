@@ -1,0 +1,141 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 625
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 28
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-22 ; Times: 12
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 27
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-15 ; Times: 6
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gopherus agassizii 2013" ; Times: 1
+	Query: "northern leopard frog" ; Times: 9
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "white tiger" ; Times: 1
+	Query: "specificepithet:regilla genus:pseudacris hastissue:1" ; Times: 3
+	Query: "genus:norops hastissue:1" ; Times: 1
+	Query: "UBCBBM H001201" ; Times: 1
+	Query: "Rana draytonii 2013" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 1
+	Query: "neotenic genus:Ambystoma" ; Times: 4
+	Query: "Rana draytonii 2016" ; Times: 1
+	Query: "specificepithet:multicarinata county:&#34;Contra Costa&#34;" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "genus:Polychrus hastissue:1" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 6
+	Query: "Massasauga" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:ornatus genus:urosaurus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "western fence lizard" ; Times: 2
+	Query: "coachwhip" ; Times: 1
+	Query: "spiny softshell" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Sistrurus catenatus 2013" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "UBCBBM H001217" ; Times: 2
+	Query: "specificepithet:ornatus genus:urosaurus hastissue:1" ; Times: 2
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "pantherophis lindheimeri" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "blandings turtle" ; Times: 1
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Uta country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "Draco volans" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 20
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1308 download events in this period)
+Total number of records downloaded: 1271
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 26
+	Country: Taiwan ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 13
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-03 ; Times: 23
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "((Lithobates pipiens) Canada)" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "(Lithobates pipiens) Canada" ; Times: 10
+	Query: "chuckwalla" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "(Lithobates pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "(Lithobates pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "california red-legged frog" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+
+
+End of report.
