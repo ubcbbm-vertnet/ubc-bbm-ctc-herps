@@ -1,0 +1,115 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: United Kingdom ; Times: 1
+	Country: Sri Lanka ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 6
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-13 ; Times: 3
+	Date: 2020-08-21 ; Times: 3
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pantherophis" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Thamnophis sirtalis fitchi" ; Times: 2
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "Coachwhip" ; Times: 2
+	Query: "Crocodylus acutus 2015" ; Times: 3
+	Query: "Crocodylus acutus 2016" ; Times: 3
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "coachwhip" ; Times: 1
+	Query: "american toad" ; Times: 2
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "blandings turtle" ; Times: 2
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UBCBBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 756 download events in this period)
+Total number of records downloaded: 162
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Sri Lanka ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-17 ; Times: 10
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+
+
+End of report.
