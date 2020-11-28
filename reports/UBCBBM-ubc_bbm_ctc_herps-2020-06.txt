@@ -1,0 +1,66 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 424
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "pacific tree frog" ; Times: 1
+	Query: "rough-skinned newt oregon" ; Times: 1
+	Query: "northwestern salamander" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "rough skinned newt" ; Times: 1
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 2
+	Query: "pacific garter snake" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "monster" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 474 download events in this period)
+Total number of records downloaded: 358
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "pacific tree frog" ; Times: 1
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "axolotl" ; Times: 2
+	Query: "tiger salamander" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "pacific garter snake" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
