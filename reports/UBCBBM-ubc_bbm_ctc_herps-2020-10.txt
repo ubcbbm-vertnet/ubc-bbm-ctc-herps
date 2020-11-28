@@ -1,0 +1,107 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-03 ; Times: 6
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Texas&#34; (catenatus)" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dipsas indica" ; Times: 1
+	Query: "family:Ranidae country:&#34;Canada&#34; hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (tergeminus)" ; Times: 2
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Anolis carolinensis san patricio county" ; Times: 2
+	Query: "genus:Dipsas hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Nerodia erythrogaster transversa" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (catenatus tergeminus)" ; Times: 1
+	Query: "specificepithet:vulpinus genus:pantherophis hastissue:1" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5 anolis carolinensis" ; Times: 1
+	Query: "gbifdatasetid:df9c8b86-9d36-4e29-91b3-4274dff053e5" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UBCBBM" ; Times: 1
+	Query: "mappable:1 scientificname:Nerodia erythrogaster flavigaster" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1521 download events in this period)
+Total number of records downloaded: 1096
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 18
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-01 ; Times: 7
+	Date: 2020-10-05 ; Times: 8
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates country:&#34;Canada&#34;" ; Times: 7
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 4
+	Query: "smooth green snake" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Liolaemus Chile" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+
+
+End of report.
