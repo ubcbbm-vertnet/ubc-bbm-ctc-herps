@@ -1,0 +1,93 @@
+Report for Institution Code UBCBBM, Resource ubc_bbm_ctc_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 6
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "genus:Coluber class:Reptilia country:&#34;Mexico&#34; AND (NOT CM)" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "arizona glossy" ; Times: 1
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 6
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "olympic torrent salamander" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia country:&#34;Mexico&#34; AND (NOT CM)" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Dicamptodon tenebrosus stateprovince:&#34;Washington&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 705 download events in this period)
+Total number of records downloaded: 288
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 4
+	Date: 2020-12-02 ; Times: 20
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+
+
+End of report.
